@@ -4,7 +4,7 @@
     "importedSpec": "swagger.json",
     "name": "petstore",
     "repo": "mlersch/swag_petstore",
-    "splitSpec": false,
+    "splitSpec": true,
     "samples": true,
     "installSwaggerUI": true
   }
